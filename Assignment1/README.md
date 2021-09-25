@@ -1,13 +1,16 @@
 # Assignment 1: 
 SimClr implementation in pytorch and tensorflow for "contrastive representation learning with simclr" on small data set
 
-## SimCLR Loss Achieved:
+## Contrastive representation learning with SimCLR:
 
 a) Pytorch:
 - SimCLR: ImageNet with 1250 train and 250 test images, Batch Size = 8, Number of Epoch = 10, Temperature = 0.05
   
 b) Tensorflow:
 - SimCLR: ImageNet with 1250 train and 250 test images, Batch Size = 8, Number of Epoch = 10, Temperature = 0.1
+
+c) Wandb Reports:
+- [https://wandb.ai/raghavaurs/simclr_tf?workspace=user-raghavaurs](https://wandb.ai/raghavaurs/simclr_tf?workspace=user-raghavaurs)
 
 
 ## References:
