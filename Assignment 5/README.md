@@ -16,3 +16,9 @@ Following are the different meta learning and multi task learning that I have pe
 1. [Few Shot Learning with Reptile MAML Algorithm](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Avalanche_Continual_Learning.ipynb)
 2. [Keras MoME Multi task learning Model](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Keras_MMOE_Multi_Task_Learning_Model.ipynb)
 3. [Avalanche Continual Learning Framework](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Avalanche_Continual_Learning.ipynb)
+
+
+References:
+1. https://keras.io/examples/vision/reptile/
+2. https://github.com/drawbridge/keras-mmoe/
+3. https://github.com/ContinualAI/avalanche/
