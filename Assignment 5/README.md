@@ -13,7 +13,7 @@ Avalanche is an end-to-end Continual Learning library based on Pytorch, born wit
 
 
 Following are the different meta learning and multi task learning that I have performed for this assignment
-1. [Few Shot Learning with Reptile MAML Algorithm](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Avalanche_Continual_Learning.ipynb)
+1. [Few Shot Learning with Reptile MAML Algorithm](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Reptile_MAML_Algorithm.ipynb)
 2. [Keras MoME Multi task learning Model](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Keras_MMOE_Multi_Task_Learning_Model.ipynb)
 3. [Avalanche Continual Learning Framework](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%205/Avalanche_Continual_Learning.ipynb)
 
