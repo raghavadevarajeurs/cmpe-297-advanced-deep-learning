@@ -1,5 +1,9 @@
 Assignment 7 : optional catchup assignment 2 - VERTEX AI - for midterm and quiz - this will catch up midterm.
 -
+Vertex AI integrates the ML offerings across Google Cloud into a seamless development experience. Previously, models trained with AutoML and custom models were accessible via separate services. The new offering combines both into a single API, along with other new products. 
+
+![alt text](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex%20AI.png)
+
 a) [Vertex AI PipeLine](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_PipeLines.pdf)
 
 
