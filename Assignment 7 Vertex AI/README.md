@@ -1,6 +1,6 @@
 Assignment 7 : optional catchup assignment 2 - VERTEX AI - for midterm and quiz - this will catch up midterm.
 -
-a) Vertex AI PipeLine
+a) [Vertex AI PipeLine](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_PipeLines.pdf)
 
 
 References:
