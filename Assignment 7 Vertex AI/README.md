@@ -6,6 +6,8 @@ Vertex AI integrates the ML offerings across Google Cloud into a seamless develo
 
 a) [Vertex AI PipeLine](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_PipeLines.pdf)
 
+b) [Fraud Detection tabular data using Vertex AutoML](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Fraud_detection_AutoML.pdf) 
+
 
 References:
 
