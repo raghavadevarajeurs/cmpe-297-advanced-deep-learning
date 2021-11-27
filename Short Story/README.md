@@ -6,7 +6,7 @@ Medium Article: https://raghavadurs.medium.com/video-language-pre-training-based
 
 Slide Share: https://www.slideshare.net/RaghavaUrs/videolanguage-pretraining-based-on-transformer-models
 
-Video: 
+Video: https://www.youtube.com/watch?v=wqOdNc9G_yo
 
 Survey Paper: [Transformer based Video-Language Pre-training](https://arxiv.org/pdf/2109.09920.pdf)
 
