@@ -8,6 +8,27 @@ a) [Vertex AI PipeLine](https://github.com/raghavadevarajeurs/cmpe-297-advanced-
 
 b) [Fraud Detection tabular data using Vertex AutoML](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Fraud_detection_AutoML.pdf) 
 
+c) [Vertex Custom Training Prediction](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_Custom_Model.pdf)
+
+d) [Vertex Workbench BigQuery](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_BigQuery.pdf)
+
+e) [Vertex AI Custom Code Training](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/VertexAI_Custom_Code_Training.pdf)
+
+f) [Vertex AI Hyperparameter Tuning](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_HyperParameter_Tuning.pdf)
+
+g) [Vertex AI MLMD Pipelines]()
+
+h) [Vertex AI AutoML Forecasting]()
+
+i) [Vertex MultiWorker Training]()
+
+j) [Vertex BGML Prediction]()
+
+k) [Vertex XGB]()
+
+l) [Vertex Notebook Executor]()
+
+m) [Time Series Forecasting with Cloud AI Platform]()
 
 References:
 
