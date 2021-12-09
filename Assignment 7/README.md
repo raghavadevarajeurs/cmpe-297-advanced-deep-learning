@@ -2,11 +2,13 @@ Assignment 7 - optional Catchup Extra assignment 1- for catchup midterm / quiz -
 
 a) Implement a colab show casing the weak supervision with simple example using snorkel
 - Weak_Supervision_Snorkel.ipynb
+- WeakSupervision_Snorkel.ipynb
 
 b) Implement a colab showcasing active learning with simple example end2end
 - Modular_Active_Learning.ipynb
 - Active_Learning_Random_Labeling.ipynb
 - Active_Learning_text_classification.ipynb
+- ActiveLearning_EndtoEnd.ipynb
 
 References:
 
