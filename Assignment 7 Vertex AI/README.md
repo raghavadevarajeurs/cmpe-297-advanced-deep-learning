@@ -18,17 +18,17 @@ f) [Vertex AI Hyperparameter Tuning](https://github.com/raghavadevarajeurs/cmpe-
 
 g) [Vertex AI MLMD Pipelines](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_ML_Metadata_with_Pipelines.pdf)
 
-h) [Vertex AI AutoML Forecasting]()
+h) [Vertex AI AutoML Forecasting]
 
-i) [Vertex MultiWorker Training]()
+i) [Vertex MultiWorker Training]
 
-j) [Vertex BGML Prediction]()
+j) [Vertex BGML Prediction]
 
-k) [Vertex XGB]()
+k) [Vertex XGB WIT](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_XGB_WIT.pdf)
 
-l) [Vertex Notebook Executor]()
+l) [Vertex Notebook Executor]
 
-m) [Time Series Forecasting with Cloud AI Platform]()
+m) [Time Series Forecasting with Cloud AI Platform]
 
 References:
 
