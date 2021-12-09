@@ -16,7 +16,7 @@ e) [Vertex AI Custom Code Training](https://github.com/raghavadevarajeurs/cmpe-2
 
 f) [Vertex AI Hyperparameter Tuning](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_HyperParameter_Tuning.pdf)
 
-g) [Vertex AI MLMD Pipelines]()
+g) [Vertex AI MLMD Pipelines](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_ML_Metadata_with_Pipelines.pdf)
 
 h) [Vertex AI AutoML Forecasting]()
 
