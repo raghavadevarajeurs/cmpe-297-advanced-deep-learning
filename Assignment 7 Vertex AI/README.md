@@ -28,7 +28,7 @@ k) [Vertex XGB WIT](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep
 
 l) [Vertex Notebook Executor](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_Notebook_Executor.pdf)
 
-m) [Time Series Forecasting with Cloud AI Platform]
+m) [Vertex AI Time Series Forecasting](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_Time_Series_Forecasting.pdf)
 
 References:
 
