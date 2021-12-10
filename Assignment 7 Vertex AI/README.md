@@ -22,7 +22,7 @@ h) [Vertex AI AutoML Forecasting](https://github.com/raghavadevarajeurs/cmpe-297
 
 i) [Vertex MultiWorker Training](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_Multi-Worker_Training.pdf)
 
-j) [Vertex BGML Prediction]
+j) [Vertex BGML Prediction](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_BGML_Model_for_Prediction.pdf)
 
 k) [Vertex XGB WIT](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_XGB_WIT.pdf)
 
