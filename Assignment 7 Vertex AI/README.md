@@ -20,7 +20,7 @@ g) [Vertex AI MLMD Pipelines](https://github.com/raghavadevarajeurs/cmpe-297-adv
 
 h) [Vertex AI AutoML Forecasting](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_AutoML_Forecasting_Model.pdf)
 
-i) [Vertex MultiWorker Training]
+i) [Vertex MultiWorker Training](https://github.com/raghavadevarajeurs/cmpe-297-advanced-deep-learning/blob/main/Assignment%207%20Vertex%20AI/Vertex_AI_Multi-Worker_Training.pdf)
 
 j) [Vertex BGML Prediction]
 
